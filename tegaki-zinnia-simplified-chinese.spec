@@ -1,7 +1,7 @@
 Summary: Simplified Chinese Models for tegaki zinnia engine
 Name:    tegaki-zinnia-simplified-chinese
 Version: 0.3
-Release: 2
+Release: 3
 License: GPLv2+
 Group:   System/Internationalization
 Source0: http://www.tegaki.org/releases/0.3/models/%{name}-%{version}.zip
